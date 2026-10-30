@@ -5,7 +5,7 @@ Reconstruction of the **top-quark mass** from its hadronic decay
 Data** and the Python [Scikit-HEP](https://scikit-hep.org/) stack (uproot,
 awkward, vector, scipy) — no CMSSW/ROOT-C++ required.
 
-*Author: Geraldine Lomeli Ponce*
+*Author: Geraldine Lomeli*
 
 ---
 
